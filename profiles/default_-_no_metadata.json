@@ -1,0 +1,10 @@
+{
+  "output_root": "C:\\Projects\\Scriptures\\src\\Video2WAV\\downloads",
+  "generate_json": false,
+  "organize_by_site": false,
+  "organize_by_date": false,
+  "organize_by_playlist": false,
+  "naming_mode": "smart",
+  "name_template": "{title} - from {source}",
+  "profile_name": "default_-_no_metadata"
+}

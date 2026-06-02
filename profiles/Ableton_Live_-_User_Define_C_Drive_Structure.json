@@ -1,0 +1,10 @@
+{
+  "output_root": "C:\\[PUT-USER-NAME-HERE | OR | Update path to work with your workflow --->]\\[Update path to work with your workflow ]\\Video2Wav Downloads",
+  "generate_json": false,
+  "organize_by_site": false,
+  "organize_by_date": false,
+  "organize_by_playlist": false,
+  "naming_mode": "smart",
+  "name_template": "DEFINE YOUR OWN TEMPLATE IF YOU WISH [ERASE BEFORE \"!!!\" TO USE DEFAULT] !!!",
+  "profile_name": "Ableton_Live_-_User_Define_C_Drive_Structure"
+}
