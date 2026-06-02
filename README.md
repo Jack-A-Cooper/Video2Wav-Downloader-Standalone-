@@ -42,6 +42,10 @@ A quick look at the Video2WAV interface and workflow. These preview images are l
   </table>
 </div>
 
+## Preview Example Credits
+
+- Video link used for previewing purposes: [4K 2K 1080p 720p 480p video resolution test by JC](https://www.youtube.com/watch?v=2PuFyjAs7JA)
+
 ## Author
 
 - Jack Cooper
