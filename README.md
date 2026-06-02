@@ -4,6 +4,44 @@
 
 Extract production-ready WAV audio from direct media URLs, embedded video pages, short-form video URLs, and playlists. Video2WAV supports both a command-line workflow and a Tkinter GUI with queue management, output profiles, custom naming, folder organization, and optional JSON metadata sidecars.
 
+## Previews
+
+A quick look at the Video2WAV interface and workflow. These preview images are loaded from the repository's `imgs/` folder.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="imgs/preview-1.png" alt="Video2WAV preview 1" width="100%">
+      </td>
+      <td align="center" width="50%">
+        <img src="imgs/preview-2.png" alt="Video2WAV preview 2" width="100%">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="imgs/preview-3.png" alt="Video2WAV preview 3" width="100%">
+      </td>
+      <td align="center" width="50%">
+        <img src="imgs/preview-4.png" alt="Video2WAV preview 4" width="100%">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="imgs/preview-5.png" alt="Video2WAV preview 5" width="100%">
+      </td>
+      <td align="center" width="50%">
+        <img src="imgs/preview-6.png" alt="Video2WAV preview 6" width="100%">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="imgs/preview-7.png" alt="Video2WAV preview 7" width="75%">
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## Author
 
 - Jack Cooper
